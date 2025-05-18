@@ -4,6 +4,6 @@
 
 S'ha fet:
 
- - [ ] [1 Jenkins](./RA5/RA5_1/):
+ - [x] [1 Jenkins](git@github.com:pps10219513/jenkins.git):
  - [ ] [2 Terraform & Ansible](./RA5/RA5_2/):
 
